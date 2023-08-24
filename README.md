@@ -1,4 +1,4 @@
-## Oiii eu sou o Rafael
+## Oiii, eu sou o Rafael
 
 <div align="center">
   <a href="https://github.com/RafaelMendonca23">
