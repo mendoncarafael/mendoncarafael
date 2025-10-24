@@ -3,6 +3,10 @@
 
 - 🌱 I’m currently learning **React, TypeScript**
 
+- 🔎 Looking for Opportunities 
+
+- 👨‍💻 All of my projects are available here 
+
 - 📫 How to reach me **mendrafael06@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
