@@ -5,7 +5,7 @@
 
 - 🔎 Looking for Opportunities 
 
-- 👨‍💻 All of my projects are available here 
+- 👨‍💻 All of my projects are available here.
 
 - 📫 How to reach me **mendrafael06@gmail.com**
 
