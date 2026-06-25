@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Rafael 👋</h1>
 <p align="center">
-  <em>Frontend Developer · Brazil 🇧🇷</em>
+  <em>Full-Stack Developer · Brazil 🇧🇷</em>
 </p>
 
 <p align="center">
