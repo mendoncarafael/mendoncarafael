@@ -79,18 +79,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true" />
 </p>
 
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mendoncarafael/mendoncarafael/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mendoncarafael/mendoncarafael/output/github-contribution-grid-snake.svg" />
-    <img alt="snake game" src="https://raw.githubusercontent.com/mendoncarafael/mendoncarafael/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=ed0518&section=footer&reversal=false&fontAlign=50&animation=fadeIn&textBg=false" />
 </p>
