@@ -1,4 +1,7 @@
-<h1 align="center">Hi there, I'm Rafael 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Rafael%20Domingos&section=header&reversal=false&fontAlign=50&animation=fadeIn&textBg=false" />
+</p>
+
 <p align="center">
   <em>Full-Stack Developer · AI-Driven Engineering · Brazil 🇧🇷</em>
 </p>
@@ -78,6 +81,16 @@
 
 ---
 
+### 🐍 Contribution Snake
+
 <p align="center">
-  <em>💡 Constantly exploring the intersection between software engineering and AI.</em>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" />
+    <img alt="snake game" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=ed0518&section=footer&reversal=false&fontAlign=50&animation=fadeIn&textBg=false" />
 </p>
