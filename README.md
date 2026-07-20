@@ -1,23 +1,34 @@
 <h1 align="center">Hi there, I'm Rafael 👋</h1>
 <p align="center">
-  <em>Full-Stack Developer · Brazil 🇧🇷</em>
+  <em>Full-Stack Developer · AI-Driven Engineering · Brazil 🇧🇷</em>
 </p>
 
 <p align="center">
-  Passionate about building clean and responsive web interfaces.<br/>
-  Currently deepening my skills in <strong>React</strong> and <strong>TypeScript</strong>,<br/>
-  and actively looking for new opportunities where I can contribute and grow.
+  Building scalable web applications, intelligent automations and AI-powered solutions.<br/>
+  Working end-to-end with <strong>TypeScript</strong>, <strong>React</strong> and <strong>Node.js</strong> — from architecture to deployment.<br/>
+  Actively looking for new opportunities where I can contribute and grow. 🚀
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rafaelmendonca22/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mendrafael06@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ### About me
 
-- 🌱 Currently learning **React** and **TypeScript**
+- 💻 Full-Stack Developer focused on **scalable web apps**, **smart automations** and **AI-based solutions**
+- 🤖 Experience building **AI agents** and integrating **LLMs** into real products
+- ⚙️ I use AI as part of my engineering workflow to ship faster and improve code quality
+- 🎓 Studying **Software Engineering**, deepening my knowledge in system architecture and AI
 - 🔎 Open to new opportunities
 - 👨‍💻 All of my projects are available here on GitHub
 - 📫 Reach me at **[mendrafael06@gmail.com](mailto:mendrafael06@gmail.com)**
-- 🔗 Connect on **[LinkedIn](https://www.linkedin.com/in/rafaelmendonca22/)**
 
 ---
 
@@ -32,7 +43,14 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
-**Backend & Database**
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white)
+
+**Database**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
@@ -41,4 +59,25 @@
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <em>💡 Constantly exploring the intersection between software engineering and AI.</em>
+</p>
